@@ -23,17 +23,13 @@ End the program
 #Developed by: Surendhar A
 
 #RegisterNumber: 212222110049
-
+```
 num1,num2=float(input()),float(input())
-
 temp=num1
-
 num1=num2
-
 num2=temp
-
 print("Swapped values are:",num1,num2)
-
+```
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/118352907/225203166-78040645-1cbe-4d85-a0d8-9c18ad8c1313.png)
